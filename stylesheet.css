@@ -47,7 +47,7 @@ a {
   float:right;
   display:block;
   line-height: 40px;
-  background-color: rgba(39,39,40,0.4);
+  background-color: rgba(39,39,40,0.7);
   transition: all 0.5s;
   padding:0 15px;
   color: white;
