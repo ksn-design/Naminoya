@@ -35,6 +35,7 @@ a {
   background-blend-mode: lighten;
   position: fixed;
   width: 100%;
+  height: 58px;
   z-index: 10;
 }
 
@@ -43,6 +44,10 @@ a {
   color:rgba(20,20,20);
   position: absolute;
   top: 0;
+
+}
+.title h2{
+  line-height: 52px;
 }
 .btn-menu{
   float:right;
@@ -64,7 +69,7 @@ nav{
   background: rgba(120,40,40,0.9);
   z-index: 1;
   transition: 0.5s;
-  padding:25px 0;
+  padding:20px 0;
   height: 100vh;
 
 }
@@ -159,4 +164,25 @@ dd{
 .footer a{
   color: #fff;
   border-bottom: solid 2px rgba(200,200,240);
+}
+.Menu-wrapper{
+  margin: 10px 0;
+  padding: 27px 0;
+  background: rgba(210,200 , 200, 0.5);
+}
+.Menu-wrapper  button{
+  margin: 0 auto;
+  display: block;
+
+}
+.nlogo{
+  text-align: center;
+}
+.Menu-wrapper a{
+  color: black;
+}
+.Menu-wrapper p
+{
+  text-align: center;
+  padding: 20px 0;
 }
