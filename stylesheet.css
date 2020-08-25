@@ -178,6 +178,9 @@ dd{
 .nlogo{
   text-align: center;
 }
+.Menu-wrapper img{
+  width: 70%;
+}
 .Menu-wrapper a{
   color: black;
 }
