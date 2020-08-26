@@ -47,7 +47,7 @@ a {
 
 }
 .title img{
-  height: 58px;
+  padding-top: 15px;
 }
 .btn-menu{
   float:right;
@@ -57,6 +57,7 @@ a {
   transition: all 0.5s;
   padding:0 15px;
   color: white;
+  margin-top: 8px;
 }
 
 nav{
