@@ -46,8 +46,8 @@ a {
   top: 0;
 
 }
-.title h2{
-  line-height: 52px;
+.title img{
+  height: 58px;
 }
 .btn-menu{
   float:right;
@@ -73,6 +73,9 @@ nav{
   height: 100vh;
 
 }
+.information-details a{
+  color: black;
+}
 nav li{
   padding: 20px 0;
   font-size: 20px;
@@ -91,6 +94,9 @@ nav li{
   padding-top: 44px;
   position: relative;
 
+}
+.info-title img{
+  margin: 15px;
 }
 .main-title h2{
   padding-top: 45px;
