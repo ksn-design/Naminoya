@@ -163,6 +163,11 @@ body {
           transition-delay: 0.28s;
 }
 
+.menu-open .mobile-menu__item:nth-child(5) {
+  -webkit-transition-delay: 0.35s;
+          transition-delay: 0.35s;
+}
+
 .menu-open .mobile-menu__btn > span {
   background-color: black;
 }

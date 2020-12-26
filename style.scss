@@ -129,7 +129,7 @@ body{
             transform: none;
             opacity: 1;
             
-            @for $i from 1 to 5 {
+            @for $i from 1 to 6 {
                 &:nth-child(#{$i}){
                     transition-delay: $i*0.07s;
                 }
@@ -510,7 +510,17 @@ body{
       }
   }
 
-  
+// .container-menu{
+//   img{
+//     display: block;
+//     width: 80%;
+//     height: 50vh;
+//     margin: 0 auto;
+//   }
+//   p{
+//     text-align: center;
+//   }
+// }
 
 
   // breakpoint
