@@ -496,6 +496,17 @@ body {
   text-align: center;
 }
 
+.Enkai {
+  width: 94%;
+  padding: 30px 0;
+  margin: 0 auto;
+}
+
+.Enkai img {
+  width: 100%;
+  height: 60vh;
+}
+
 #btn-container {
   text-align: center;
   padding: 30px;
@@ -636,6 +647,18 @@ Stylesheet: 600px以上のタブレットやモニタで適用
     margin: 0 auto;
     width: 550px;
     height: 60vh;
+  }
+  .Enkai {
+    width: 80%;
+  }
+  .Enkai img {
+    display: block;
+    margin: 0 auto;
+    width: 70vh;
+    height: 60vh;
+  }
+  .Enkai p {
+    text-align: center;
   }
 }
 
